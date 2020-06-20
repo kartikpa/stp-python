@@ -1,2 +1,2 @@
-# SDP-python
+# stp-python
 Assignment 1
